@@ -33,6 +33,6 @@ Pod::Spec.new do |s|
                           'CoreGraphics',
                           'QuartzCore'
 
-  s.dependency 'Bolts/Tasks', '~> 1.3'
+  #s.dependency 'Bolts/Tasks', '~> 1.3'
   s.dependency 'Parse', '~> 1.9'
 end
